@@ -1,0 +1,2 @@
+Zoo Name: ZooTopic
+Number of animals: 3
